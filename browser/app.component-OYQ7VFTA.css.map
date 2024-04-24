@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/app.component.scss"],
+  "sourcesContent": ["body{\r\n    max-width: 1440px;\r\n}"],
+  "mappings": "AAAA,KACI,UAAA",
+  "names": []
+}

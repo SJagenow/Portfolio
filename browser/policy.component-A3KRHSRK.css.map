@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/policy/policy.component.scss"],
+  "sourcesContent": [".impressum{\r\n    color: rgba(245, 245, 245, 0.836);\r\n    text-shadow: 1px 1px 4px black;\r\n    display: flex;\r\n    justify-content: center;\r\n    max-width: 1920px;\r\n}\r\n\r\n.impressum_width{ \r\n    width: 45%;\r\n    margin-left: 540px;\r\n}\r\n@media (max-width:950px) {\r\n    .impressum{\r\n        margin-top: 540px;\r\n        margin-left: 0px;\r\n\r\n    }\r\n    .impressum_width{\r\n        margin-left: 0px;\r\n        width: 90%;\r\n    }\r\n}\r\n\r\n@media (max-width:450px) {\r\n.impressum{\r\n    text-align: center;\r\n    margin-top: 320px;\r\n}\r\n}"],
+  "mappings": "AAAA,CAAA,UACI,MAAA,UACA,YAAA,IAAA,IAAA,IAAA,MACA,QAAA,KACA,gBAAA,OACA,UAAA,OAGJ,CAAA,gBACI,MAAA,IACA,YAAA,MAEJ,OAAA,CAAA,SAAA,EAAA,OACI,CAbJ,UAcQ,WAAA,MACA,YAAA,EAGJ,CAVJ,gBAWQ,YAAA,EACA,MAAA,KAIR,OAAA,CAAA,SAAA,EAAA,OACA,CAzBA,UA0BI,WAAA,OACA,WAAA",
+  "names": []
+}
